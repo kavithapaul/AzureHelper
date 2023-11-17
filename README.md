@@ -35,3 +35,6 @@ This is a sample project that helps to
 # Log
 - Log.txt will be created in application folder incase of error.
 
+# Output
+- ![image](https://github.com/kavithapaul/AzureHelper/assets/51314685/fe223b3c-2cda-4322-a0bc-07da3bd5ca94)
+
