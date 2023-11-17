@@ -7,7 +7,7 @@ This is a sample project that helps to
 - Framework:.net framework 4.8
 - IDE: Visual Studio 2022
 - Language: C#
-- UI: Console Application
+- UI: Console Application/Command-Line pplication
 
 # Azure Settings for datafactory
 - Create datasource(Sql DB,blob file etc), target(sql DB etc), Linked
@@ -15,7 +15,7 @@ This is a sample project that helps to
 - Reference:
   - https://learn.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-portal
   - https://www.youtube.com/watch?v=EpDkxTHAhOs
-Follow the latest tutorials mentioned in Azure tutorials.
+- Follow the latest tutorials mentioned in Azure tutorials.
   
 # Azure Settings for search
 - Create a Azure AI Search resource
@@ -30,5 +30,5 @@ Follow the latest tutorials mentioned in Azure tutorials.
 - If you want to pass a search string pass it as command line argument. 
 
 # Log
-log.txt will be created in application folder incase of error.
+- Log.txt will be created in application folder incase of error.
 
