@@ -29,6 +29,9 @@ This is a sample project that helps to
 - Build the code and launch the application
 - If you want to pass a search string pass it as command line argument. 
 
+# Sql to create Sample Database
+- https://github.com/kavithapaul/AzureHelper/tree/main/EIdConsoleApp/Sqls
+
 # Log
 - Log.txt will be created in application folder incase of error.
 
