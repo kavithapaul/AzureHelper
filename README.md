@@ -29,7 +29,7 @@ This is a sample project that helps to
 - Build the code and launch the application
 - If you want to pass a search string pass it as command line argument. 
 
-# Sql to create Sample Database
+# Sql to create sample database tables/views
 - https://github.com/kavithapaul/AzureHelper/tree/main/EIdConsoleApp/Sqls
 
 # Log
