@@ -123,5 +123,14 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sqls\CreateTableCategories.sql" />
+    <Content Include="Sqls\CreateTableOrders.sql" />
+    <Content Include="Sqls\CreateTableOrder_Products.sql" />
+    <Content Include="Sqls\CreateTableProducts.sql" />
+    <Content Include="Sqls\CreateViewvCategories.sql" />
+    <Content Include="Sqls\CreateViewvOrders.sql" />
+    <Content Include="Sqls\CreateViewvProducts.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

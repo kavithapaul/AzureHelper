@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[Orders](
+	[order_id] [int] NOT NULL,
+	[order_date] [datetime] NULL,
+	[customer_name] [nvarchar](150) NULL,
+	CONSTRAINT [PK_Orders] PRIMARY KEY CLUSTERED 
+(
+	[order_id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
