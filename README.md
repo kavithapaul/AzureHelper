@@ -12,16 +12,16 @@ UI: Console Application
 # Azure Settings for datafactory
 - Create datasource(Sql DB,blob file etc), target(sql DB etc), Linked
 - Create a datafactory pipeline in Azure
-  </br>Reference:
-    </br>https://learn.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-portal
-    </br>https://www.youtube.com/watch?v=EpDkxTHAhOs
+- Reference:
+  - https://learn.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-portal
+  - https://www.youtube.com/watch?v=EpDkxTHAhOs
 Follow the latest tutorials mentioned in Azure tutorials.
   
 # Azure Settings for search
 - Create a Azure AI Search resource
- Refer https://learn.microsoft.com/en-us/azure/search/search-create-service-portal
+- Refer https://learn.microsoft.com/en-us/azure/search/search-create-service-portal
 - Create an index (this index will be refered from console application)
-  Follow the latest tutorials mentioned in Azure tutorials.
+- Follow the latest tutorials mentioned in Azure tutorials.
   
 # Usage
 - Open the solution file in Visual Studio
