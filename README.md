@@ -10,7 +10,7 @@ This is a sample project that helps to
 - UI: Console Application/Command-Line pplication
 
 # Azure Settings for datafactory
-- Create datasource(Sql DB,blob file etc), target(sql DB etc), Linked
+- Create datasource(Sql DB,blob file etc), target(sql DB etc), other required resources.
 - Create a datafactory pipeline in Azure
 - Reference:
   - https://learn.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-portal
