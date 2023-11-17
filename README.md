@@ -4,10 +4,10 @@ This is a sample project that helps to
 - Do a search using Azure Cognitive search(now Azure AI Search)
 
 # Technical specfications  
-Framework:.net framework 4.8
-IDE: Visual Studio 2022
-Language: C#
-UI: Console Application
+- Framework:.net framework 4.8
+- IDE: Visual Studio 2022
+- Language: C#
+- UI: Console Application
 
 # Azure Settings for datafactory
 - Create datasource(Sql DB,blob file etc), target(sql DB etc), Linked
